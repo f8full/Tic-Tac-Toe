@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe (Kotlin)/task/build/
+/Simple Tic-Tac-Toe (Kotlin)/task/out/
+/Simple Tic-Tac-Toe (Kotlin)/task/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Introduction to MutableList/Create and reverse a list from 1 to an input integer/out/
+/Topics/Introduction to MutableList/Create and reverse a list from 1 to an input integer/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
