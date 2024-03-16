@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - Create and reverse a list from 1 to an input integer
+  - Initializing and finding elements in a MutableList
+  - Operations on a mutable list of words
+  - Initializing a mutable list of characters
+  - Getting an element
